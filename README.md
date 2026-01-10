@@ -183,15 +183,7 @@ jobs:
 
 ---
 
-## 📬 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://www.linkedin.com/in/eman-fatima-64aa8a271/" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-</p>
-
----
 
 <p align="center">
   🔥 <strong>Consistency beats motivation. See you on Day 30!</strong> 🔥
